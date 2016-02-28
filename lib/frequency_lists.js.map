@@ -1,7 +1,7 @@
 {
   "version": 3,
   "file": "frequency_lists.js",
-  "sourceRoot": "..",
+  "sourceRoot": "../../zxcvbn",
   "sources": [
     "src/frequency_lists.coffee"
   ],
