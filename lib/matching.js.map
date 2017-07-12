@@ -1,7 +1,7 @@
 {
   "version": 3,
   "file": "matching.js",
-  "sourceRoot": "../../zxcvbn",
+  "sourceRoot": "..",
   "sources": [
     "src/matching.coffee"
   ],

@@ -1,7 +1,7 @@
 {
   "version": 3,
   "file": "adjacency_graphs.js",
-  "sourceRoot": "../../zxcvbn",
+  "sourceRoot": "..",
   "sources": [
     "src/adjacency_graphs.coffee"
   ],

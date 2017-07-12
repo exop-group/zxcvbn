@@ -1,7 +1,7 @@
 {
   "version": 3,
   "file": "time_estimates.js",
-  "sourceRoot": "../../zxcvbn",
+  "sourceRoot": "..",
   "sources": [
     "src/time_estimates.coffee"
   ],
